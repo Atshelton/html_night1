@@ -1,0 +1,47 @@
+h1 {
+  margin: 0;
+  padding: 0px;
+  text-align: center;
+  border: dashed;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  font-style: italic;
+  font-size: 2em;
+  font-family: impact;
+}
+p.top{
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+
+p.base{
+  text-align: center;
+}
+p.body{
+  font-style: italic;
+  font-family: courier;
+  line-height: 1.3em;
+  text-align: center;
+  font-size: 1.1em;
+}
+
+section{
+  border: dashed;
+  background-color: #F5F5DC;
+  width: 600px;
+  height: auto;
+  margin: auto;
+  font-style: normal;
+}
+
+main {
+  background-color: #E2AC7F;
+  padding: 5px;
+  border: 50px;
+  margin: 50px;
+  width: 1050px;
+  margin: auto;
+
+}
